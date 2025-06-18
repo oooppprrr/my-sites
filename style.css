@@ -9,7 +9,7 @@ body, html {
   background-image: url('images/foto1.jpg');
   height: 100vh;
   background-size: cover;
-  background-position: center bottom;
+  background-position: top center;
   background-repeat: no-repeat;
   position: relative;
 }
